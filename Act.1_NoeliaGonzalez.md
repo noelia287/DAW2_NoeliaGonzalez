@@ -18,7 +18,7 @@ Soc estudiant de **Desenvolupament d'Aplicacions Web (DAW)** i m'interessa espec
 ---
 
 #### Pel·licules que m'agraden
-1. El Gran Showman 
+1. El Gran Showman
 2. Mamma mia!
 3. Harry Potter i el presoner d'Azkaban
 
